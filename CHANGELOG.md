@@ -2,4 +2,8 @@
 
 ## Unreleased
 
+## 2026-06-03
+
+- chore: add project configuration
+
 - feat: bootstrapping project with basic setup

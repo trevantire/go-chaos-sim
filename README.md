@@ -143,3 +143,5 @@ See [`examples/main.go`](examples/main.go) for a complete demo.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<!-- history: 2026-06-03 -->
